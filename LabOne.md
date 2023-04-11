@@ -33,3 +33,12 @@ Then you will see this below
 There are some commands we can use in the Terminal to try on:  
 * cd
 * cd ~
+* ls -lat
+* ls -a
+* ls follow by a directory
+* cat
+* cp  
+  
+## **EX :**  
+![Image](LabOne4.JPG)
+
