@@ -46,5 +46,8 @@ There are some commands we can use in the Terminal to try on:
 ![Image](LabOne4.JPG)
 
 cd in to a path
-![Image](LabOne5.JPG)
+![Image](LabOne5.png)  
+
+this is when we print the upper level and then we cd to that path then we print again
+![Image](LabOne6.png)
 
