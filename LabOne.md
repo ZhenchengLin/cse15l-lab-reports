@@ -39,9 +39,9 @@ There are some commands we can use in the Terminal to try on:
 * `ls follow by a directory`
 `ls` This is use to print out the folders that is in a given path. This method will help you know what are in which files.
 * `cat`
-`cat` 
+`cat` is use to print the contents of the file that is in your working path. This can help you know what is in your files.
 * `cp  `
-  
+`cp` it will copy the file in to the path you give or there are two file it will copy one to another.
 ## **EX :**  
 ![Image](LabOne4.JPG)
 
