@@ -22,7 +22,7 @@ How to use Git in VSCode
 7. Now, the terminal will be Git Bash terminal
 8. You will see both powershell and bash on the left of terminal window
 
-Then type **ssh + cs15lsp23(personal two leter)@ieng6-201.ucsd.edu**  
+Then type `**ssh + cs15lsp23(personal two leter)@ieng6-201.ucsd.edu**  `
 Now you will see something like this  
 ![Image](LabOne2.JPG)  
 **Type Yes**  
@@ -31,13 +31,13 @@ Then you will see this below
 
 ## Trying Some Commands
 There are some commands we can use in the Terminal to try on:  
-* cd
-* cd ~
-* ls -lat
-* ls -a
-* ls follow by a directory
-* cat
-* cp  
+* `cd
+* `cd ~
+* `ls -lat
+* `ls -a
+* `ls follow by a directory
+* `cat
+* `cp  `
   
 ## **EX :**  
 ![Image](LabOne4.JPG)
