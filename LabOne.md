@@ -32,11 +32,14 @@ Then you will see this below
 ## Trying Some Commands
 There are some commands we can use in the Terminal to try on:  
 * `cd`
-* `cd ~`
+* `cd ~`  
+`cd` is use to swich the current working directory to another given path. During this process the computer will change your directory with a given path.
 * `ls -lat`
 * `ls -a`
 * `ls follow by a directory`
+`ls` This is use to print out the folders that is in a given path. This method will help you know what are in which files.
 * `cat`
+`cat` 
 * `cp  `
   
 ## **EX :**  
