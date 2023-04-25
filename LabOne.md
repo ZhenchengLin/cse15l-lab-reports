@@ -45,3 +45,6 @@ There are some commands we can use in the Terminal to try on:
 ## **EX :**  
 ![Image](LabOne4.JPG)
 
+cd in to a path
+![Image](LabOne5.JPG)
+
